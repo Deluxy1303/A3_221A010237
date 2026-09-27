@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#90CAF9</color>
+    <color name="tertiary">#80CBC4</color>
+    <color name="on_primary">#000000</color>
+    <color name="primary_container">#1E3A5F</color>
+    <color name="surface">#121212</color>
+    <color name="surface_variant">#242424</color>
+    <color name="divider">#444444</color>
+    <color name="muted">#B0B8C0</color>
+</resources>
